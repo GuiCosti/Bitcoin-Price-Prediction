@@ -7,3 +7,4 @@ tensorflow==2.16.1
 keras-tuner==1.4.7
 statsmodels==0.14.1
 prophet==1.1.6
+plotly==5.22.0

@@ -12,5 +12,5 @@ Using historical bitcoin market data to predict future values
 + Hyperparameter tunning (LinearRegression)
 + Cross Validation Models
 + Implement Early Stopping
-+ Abstract duplicated Code into functions
++ Abstract duplicated Code into functions: repeated functions between files, repeated plottings, duplicated code, etc.
 + Early Stopping
